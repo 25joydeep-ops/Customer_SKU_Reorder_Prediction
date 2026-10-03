@@ -1,5 +1,5 @@
 # BigBasket Customer-SKU Reorder Prediction & Prioritization
-An end-to-end machine learning and business intelligence project for predicting customer-SKU reorder opportunities and prioritizing them using BigBasket's historical retail transaction data. The project combines customer behavior analysis, feature engineering, machine learning, retrospective evaluation, opportunity prioritization and an interactive Power BI report to transform historical purchase data into actionable reorder insights.
+An end-to-end machine learning and business intelligence project for predicting customer-SKU reorder opportunities and prioritizing them using BigBasket's historical retail transaction data (based off of an IIM Bangalore case-study). The project combines customer behavior analysis, feature engineering, machine learning, retrospective evaluation, opportunity prioritization and an interactive Power BI report to transform historical purchase data into actionable reorder insights.
 
 ## Project Overview
 Retail businesses often have thousands of customer-product combinations and limited resources for targeted customer engagement. Instead of treating every customer-SKU combination equally, this project develops a predictive system that:
